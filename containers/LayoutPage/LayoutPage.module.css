@@ -1,0 +1,8 @@
+.Root {
+}
+.Container {
+  max-width: 24rem;
+  padding: 0 1rem;
+  background: red;
+  margin: 3rem auto 6rem;
+}

@@ -1,0 +1,10 @@
+.Root {
+}
+.Icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px;
+}
